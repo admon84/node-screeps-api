@@ -8,7 +8,6 @@ export default {
     dir: 'dist',
     format: 'cjs',
     exports: 'named',
-    preferConst: true,
     globals: {
       ws: 'WebSocket'
     },
