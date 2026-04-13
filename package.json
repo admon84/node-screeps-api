@@ -1,8 +1,8 @@
 {
-  "name": "screeps-api",
-  "version": "1.16.1",
+  "name": "@admon-dev/screeps-api",
+  "version": "1.16.2",
   "description": "",
-  "repository": "screepers/node-screeps-api",
+  "repository": "admon84/node-screeps-api",
   "main": "dist/ScreepsAPI.js",
   "module": "src/index.js",
   "scripts": {
